@@ -1,3 +1,4 @@
+# https://onecompiler.com/python/44x47s82p
 # You are given the scores of 5 students on a given assessment.
 # For each of the scores, output whether they PASSED or FAILED.
 #   - Passing score is 60
